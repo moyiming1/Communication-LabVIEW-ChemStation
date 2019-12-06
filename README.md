@@ -18,7 +18,7 @@ Typically, the name is "hpcorexxxx"
 ### ChemStation will only update the method parameters after reloading the method. 
 To reload the method: "LoadMethod "_MethodPath$", "_MethodName$""
 
-Example: "LoadMethod "C:\Chem32(2)\1\Methods\", "YM_AC_AUTOMATION.M""
+Example: "LoadMethod "C:\Chem32\1\Methods\", "AUTOMATION.M""
 
 ### Use "DDE send command.vi" in the repo as the driver
 Refer to the "Macro Programming Guide" for additional commands.
