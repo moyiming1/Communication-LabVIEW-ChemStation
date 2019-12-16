@@ -21,6 +21,7 @@ To reload the method: "LoadMethod "_MethodPath$", "_MethodName$""
 Example: 
 The ChemStation method folder is: 
 C:\Chem32\1\Methods\AUTOMATION.M
+
 Then, the command for ChemStation is:
 ```LoadMethod "C:\Chem32\1\Methods\", "AUTOMATION.M"```
 
