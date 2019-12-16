@@ -19,6 +19,7 @@ Typically, the name is "hpcorexxxx"
 To reload the method: "LoadMethod "_MethodPath$", "_MethodName$""
 
 Example: 
+
 The ChemStation method folder is: 
 C:\Chem32\1\Methods\AUTOMATION.M
 
